@@ -14,6 +14,7 @@ import (
 	"path"
 	"path/filepath"
 	"sync"
+	"strings"
 
 	"github.com/cupcakearmy/autorestic/internal"
 )
